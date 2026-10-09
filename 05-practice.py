@@ -44,3 +44,6 @@ print(f"\n{'='*50}")
 print(f"最终状态:")
 print(f"  草稿纸（工作记忆，只剩最后任务的）: {agent.current_history}")
 print(f"  笔记本（长期记忆，三个任务都在）: {agent._history}")
+with open("d:/za9za10/git/02-studynote.md", encoding="utf-8") as f:
+    content = f.read()
+print(content[:200])    # 只打印前 200 个字符，避免刷屏
