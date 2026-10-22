@@ -1,5 +1,7 @@
 # Hello-Agents 学习计划（3 周版 · 目标吸收 70%）
 
+> **2026-10-17 起：求职冲刺看 [求职学习计划.md](./求职学习计划.md) 和 [学习日程.md](./学习日程.md)。** 本文只保留课程章节地图和资源，不再按「21 天学完 70%」执行。
+
 > 基于 [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) 定制
 > 学习者画像：Agent 新手、Python 基础一般（需复习）、Windows 11、国内网络
 > 节奏：每天净学习 5~7 小时，连续 21 天，总投入约 105~145 小时
